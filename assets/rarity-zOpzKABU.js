@@ -1,0 +1,1 @@
+var e={common:`var(--rarity-common)`,rare:`var(--rarity-rare)`,epic:`var(--rarity-epic)`,legendary:`var(--rarity-legendary)`},t={common:`#888899`,rare:`#b347ea`,epic:`#00f0ff`,legendary:`#ffd700`},n={common:`Обычный`,rare:`Редкий`,epic:`Эпический`,legendary:`Легендарный`};function r(t){return e[t]||e.common}export{n,r,t};
